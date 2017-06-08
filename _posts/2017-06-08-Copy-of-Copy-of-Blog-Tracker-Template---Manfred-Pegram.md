@@ -1,5 +1,5 @@
 ---
-title: Copy of Copy of Blog Tracker Template - Manfred Pegram
+title: github 2.0
 layout: post
 author: michael.adcock
 permalink: /copy-of-copy-of-blog-tracker-template---manfred-pegram/
